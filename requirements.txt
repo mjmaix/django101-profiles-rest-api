@@ -1,3 +1,12 @@
+Author: Michael James Abadilla <abadilla.ml>
+Date:   2018-06-19T21:31:20+08:00
+Email:  abadilla.ml@achealth.com.ph
+Last modified by:   abadilla.ml
+Last modified time: 2018-06-19T21:54:23+08:00
+
+
+
 Django==1.11
 djangorestframework==3.6.2
 pytz==2018.4
+uWSGI==2.0.15
